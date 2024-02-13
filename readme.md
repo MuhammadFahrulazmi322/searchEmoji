@@ -1,7 +1,5 @@
 Emoji Search app
 
-Shopping list app
-
 To see app : https://muhammadfahrulazmi322.github.io/searchEmoji/
 
 For Use :
@@ -14,4 +12,4 @@ Result For Application :
 
 
 
-Enjoy This Apps for your Shopping List
+Enjoy This Apps for your Search Emoji
